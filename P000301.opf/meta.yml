@@ -1,5 +1,7 @@
 id: P000301
 initial_creation_type: ocr
+created_at: 10/3/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W2PD14777
   title: རྒྱུད་སྡེ་ཀུན་བཏུས། （རྫོང་སར་གློག་ཀླད་པར་མ།）
@@ -197,10 +199,3 @@ source_metadata:
       volume_number: 32
       total_pages: 1099
       base_file: v032.txt
-ebook_metadata:
-  title: རྒྱུད་སྡེ་ཀུན་བཏུས། （རྫོང་སར་གློག་ཀླད་པར་མ།）
-  author: ''
-  sku: P000301
-  cover: cover.jpg
-  layers:
-  - pagination
